@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+######### Bruno`s Ignores #########
+
+# Loaded Models from HuggingFace or other sources
+**/safetensors
